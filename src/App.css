@@ -1,6 +1,8 @@
 * {
   margin: 0;
 }
-.app_header{
-
-}
+.app__header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px ;
+} 
